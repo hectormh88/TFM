@@ -12,6 +12,8 @@ Este repositorio contiene los notebooks desarrollados para el Trabajo Final de M
 
 - **2.3. Desarrollo de modelos (datos sintéticos 200%)**: Entrenamiento y análisis de modelos con un 200% adicional de datos sintéticos.
 
+- **3. Análsis de impacto**: Análisis de la aplicación del modelo en los costos de producción de la gelatina.
+
 ## Contacto
 
 Para cualquier duda o comentario relacionado con este proyecto, puedes ponerte en contacto con el autor a través de [correo electrónico](mailto:hectormh@uoc.edu).
